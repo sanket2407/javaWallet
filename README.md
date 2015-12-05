@@ -1,8 +1,6 @@
-HelloScala
-==========
-
-Hello World Spring Boot Scala Web App
-
+Wallet In JAVA
+==============
+Wallet stores users personal informations on web with a secured wallet.
 
 How to run
 ==========
